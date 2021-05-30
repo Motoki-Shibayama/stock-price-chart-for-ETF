@@ -20,16 +20,16 @@ From your command line:
 # Clone this repository
 $ git clone https://github.com/Motoki-Shibayama/stock-price-chart-for-ETF.git
 
-[comment]: # (Go into the repository)
+# Go into the repository
 $ cd stock-price-chart-for-ETF
 
-[comment]: # (Install packages)
+# Install packages
 $ pip install -r requirements.txt
 
-[comment]: # (Run the app)
+# Run the app
 $ streamlit run etf.py
-
 ```
+
 ## Note
 This is my first time for publishing project. I am not sure this README has enough information.  
 If you have any questions or advice, please let me know.  
