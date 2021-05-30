@@ -17,7 +17,7 @@ ETF brands which this App accommodates are as follows.
 To clone and run this application, you will need Git and pip installed on your computer.  
 From your command line:
 ```
-[comment]: # (Clone this repository)
+# Clone this repository
 $ git clone https://github.com/Motoki-Shibayama/stock-price-chart-for-ETF.git
 
 [comment]: # (Go into the repository)
